@@ -1,0 +1,34 @@
+/* body {
+    color: rgba(211, 26, 26, 0.9)
+}
+ */
+blockquote { color: blue ; background-color: gold;}
+
+h1 { color: rgba(0,0,100,.5); }
+
+strong { color: #00f; color: #f00;}
+
+p { color: green } 
+
+div {
+
+font-family: DFKai-SB, BiauKai,
+
+  arial;
+}
+td[colspan="2"] {
+
+  font-size: 20px;
+}
+td[colspan="2"] {
+
+font-weight: 900;
+
+}
+
+div{
+  border: 1px solid green;
+  text-align:center;
+  letter-spacing:1em;
+  line-height:3em;
+}
